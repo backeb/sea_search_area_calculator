@@ -23,4 +23,6 @@ Date: Author - Comment
                     - Fixed bug in get_winds function and made notebook more interactive  
                     - added widget for input parameters  
                     - writing positions out to pandas dataframe  
+                    - conda install -c conda-forge ipyleaflet
+                    - added interactive map to notebook
 ```

@@ -17,6 +17,7 @@ Currently using Python 3.7.1
 `conda install -c conda-forge gpxpy`  
 `conda install -c conda-forge pynio`  
 `conda install -c conda-forge pygrib`  
+`conda install -c conda-forge ipyleaflet`  
 
 ## Directory tree
 ```
