@@ -23,12 +23,12 @@ Currently using Python 3.7.1
 ```
 |- CHANGELOG.md
 |- README.md
-|- Docs: *Relevant documentation*
-|- app: *Main code base*
-    |- make_gfs_wind_datastack.py: *makes wind forecast datastack for sea_search_area_calculator.py*
-    |- make_mercator_datastack.py: *makes ocean current forecast datastack for sea_search_area_calculator.py*
-    |- plot_search_area_map.py: *plot output from sea_search_area_calculator.py*
-    |- sea_search_area_calculator.py: *calculate search area based on wind and ocean current input data*
-|- notebooks: *Development notebooks*
-    |- sea_search_area_calculator.ipynb: *interactive notebook for sea_search_area_calculator.py*
+|- Docs:                                    Relevant documentation
+|- app:                                     Main code base
+    |- make_gfs_wind_datastack.py:          makes wind forecast datastack for sea_search_area_calculator.py
+    |- make_mercator_datastack.py:          makes ocean current forecast datastack for sea_search_area_calculator.py
+    |- plot_search_area_map.py:             plot output from sea_search_area_calculator.py
+    |- sea_search_area_calculator.py:       calculate search area based on wind and ocean current input data
+|- notebooks:                               Development notebooks
+    |- sea_search_area_calculator.ipynb:    interactive notebook for sea_search_area_calculator.py
 ```
