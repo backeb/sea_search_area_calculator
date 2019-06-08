@@ -4,7 +4,7 @@ Creation date: 15-Sep-2017 <br>
 Last updated:  08-Jun-2019 <br>
 
 ## Purpose
-Use real-time wind and ocean current (coming soon) forecasts to calculate search areas coordinates for persons/objects lost at sea.
+Use real-time wind (and ocean current coming soon) forecasts to calculate search areas coordinates for persons/objects lost at sea.
 
 This notebook is based on the search area calculator I originally developed for the [OCIMS](https://www.ocims.gov.za/) "Operations at Sea" decision support tool in collaboration with the [NSRI](https://www.nsri.org.za/).
 
