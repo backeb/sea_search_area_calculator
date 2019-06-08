@@ -1,3 +1,4 @@
+```
 Date: Author - Comment  
 28 Sep 2017: backeb - added code to plot drift vector on basemap  
 03 Oct 2017: backeb - added code get search area radius, note dependency on gpxpy library, to install do   
@@ -22,3 +23,4 @@ Date: Author - Comment
                     - Fixed bug in get_winds function and made notebook more interactive  
                     - added widget for input parameters  
                     - writing positions out to pandas dataframe  
+```

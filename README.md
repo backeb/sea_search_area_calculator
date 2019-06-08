@@ -26,6 +26,7 @@ List of python libraries used:
 `conda install -c conda-forge pynio`
 
 ## Directory tree
+```
 |- CHANGELOG.md
 |- README.md
 |- Docs: *Relevant documentation*
@@ -36,3 +37,4 @@ List of python libraries used:
     |- sea_search_area_calculator.py: *calculate search area based on wind and ocean current input data*
 |- notebooks: *Development notebooks*
     |- sea_search_area_calculator.ipynb: *interactive notebook for sea_search_area_calculator.py*
+```
