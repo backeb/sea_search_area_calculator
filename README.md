@@ -11,19 +11,12 @@ This notebook is based on the search area calculator I originally developed for 
 ## Dependencies
 Manage python installation through [conda](https://docs.conda.io/en/latest/miniconda.html)
 
-List of python libraries used:
-* numpy
-* pandas
-* jupyter
-* basemap
-* xarray
-* netcdf4
-* dask
-* pynio
+Currently using Python 3.7.1
 
-`conda install numpy pandas jupyter basemap xarray netcdf4 dask`
-`conda install -c conda-forge gpxpy`
-`conda install -c conda-forge pynio`
+`conda install numpy pandas jupyter basemap xarray netcdf4 dask`  
+`conda install -c conda-forge gpxpy`  
+`conda install -c conda-forge pynio`  
+`conda install -c conda-forge pygrib`  
 
 ## Directory tree
 ```
