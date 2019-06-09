@@ -25,4 +25,5 @@ Date: Author - Comment
                     - writing positions out to pandas dataframe  
                     - conda install -c conda-forge ipyleaflet
                     - added interactive map to notebook
+09 Jun 2019: backeb - merged interactive_map_in_notebook branch with master
 ```
